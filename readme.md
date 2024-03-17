@@ -4,4 +4,4 @@ Landing Page example
 
 Live Preview 
 ---
-> https://ivobarin.github.io/landing-page/
+    https://ivobarin.github.io/landing-page/
